@@ -44,6 +44,15 @@ Ride_Buddy_AI_/
 - **Stripe API** for ride fare payment & receipt emails
 
 ---
+## 🔑 Environment Variables
+MONGODB_URI=mongodb+srv://your_cluster
+JWT_SECRET=your_jwt_secret
+STRIPE_SECRET_KEY=your_stripe_secret
+
+ -- Frontend (.env.local)
+NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+NEXT_PUBLIC_STRIPE_KEY=your_stripe_publishable_key
+
 
 ## ⚙️ Installation
 
@@ -51,3 +60,6 @@ Ride_Buddy_AI_/
 ```bash
 git clone https://github.com/Mohit-100niii/Ride_Buddy_AI_.git
 cd Ride_Buddy_AI_
+
+
+
