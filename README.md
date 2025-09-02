@@ -53,6 +53,14 @@ STRIPE_SECRET_KEY=your_stripe_secret
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 NEXT_PUBLIC_STRIPE_KEY=your_stripe_publishable_key
 
+## 🚀 Deployment
+
+Frontend: Deploy on Netlify
+
+Backend: Deploy on Render
+ or Heroku
+
+Database: Use MongoDB Atlas
 
 ## ⚙️ Installation
 
