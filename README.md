@@ -5,6 +5,8 @@ It provides **real-time fare estimation, secure payments, and a seamless booking
 
 ---
 
+Demo Link - https://voicerridebuddyai.netlify.app/
+
 ## ✨ Features
 
 - 🎙️ **Voice-based Ride Booking** – Book rides by speaking naturally.
